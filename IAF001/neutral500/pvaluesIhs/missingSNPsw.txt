@@ -1,0 +1,2 @@
+Number of sim 	 Missing Snps
+499	8
